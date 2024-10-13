@@ -1,4 +1,4 @@
 # CSES-Problems-At-Hands
 
-In Partnership with NeatlyStructured Channel.
+In Need of Support from NeatlyStructured Channel.
 https://www.youtube.com/@neatlystructured
